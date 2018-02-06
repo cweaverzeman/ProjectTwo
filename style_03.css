@@ -1,15 +1,16 @@
 h1{
   text-align: center;
   padding-bottom: 20px;
-  font-family: "Euphemia";
+  font-family: "Avenir Next";
 
 }
 body{
   background-color: #ccff99;
-  padding: 40px;
+  padding: 70px;
   padding-bottom: 80px;
 }
 p{
-  font-family: "Euphemia";
+  font-family: "Avenir Next";
+  line-height: 30px;
 
 }
